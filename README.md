@@ -12,9 +12,9 @@ Use Github [Issues](https://github.com/IndustryFoundationClasses/Questions/issue
 
 Due to [recent news](http://marketingland.com/linkedin-is-making-all-linkedin-groups-private-starting-oct-14-145530), however, Linkedin has created an unfortunate fiction barrier to this open access to information.
 
-In this light, this Github repo was created to act as more public and fiction-less place to ask these IFC questions.
+In this light, this Github repo was created to act as more public and fiction-less place to ask these questions.
 
-Secondly, being that Github is inherently for software development, it's native tools will undoubtedly prove more helpful drilling into specific code and content.
+Secondly, being that Github is inherently for software development, it's native tools will undoubtedly prove helpful drilling into specific code and content.
 
 
 
